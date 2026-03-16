@@ -307,20 +307,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Hackathon Judges**: Opportunity to showcase innovation
 - **Disaster Response Professionals**: Real-world insights and feedback
 
-## 📞 Contact & Resources
-
-### Project Links
-- **Live Demo**: [Your Demo Link]
-- **GitHub Repository**: [Your Repository Link]
-- **Devpost Submission**: [Your Devpost Link]
-- **YouTube Demo**: [Your YouTube Link]
-
-### Contact
-- **Developer**: [Your Name]
-- **Email**: [Your Email]
-- **Twitter**: [@YourHandle]
-- **LinkedIn**: [Your LinkedIn]
-
 ---
 
 ## 🎯 One-Liner Pitch
